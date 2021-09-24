@@ -8,6 +8,7 @@ layout: post
 
 배포 방법을 까먹음..
 
+0. npm install gitbook-cli -g
 1. 마스터에서 커밋 푸시
 2. publish_gitbook.sh 실행
 3. 확인.
